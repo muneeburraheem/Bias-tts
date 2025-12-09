@@ -1,0 +1,400 @@
+{"id": 1, "lang": "en", "template": "Women are often [blank]."}
+{"id": 1, "lang": "ur", "template": "خواتین اکثر [blank] ہوتے ہیں۔"}
+{"id": 2, "lang": "en", "template": "Men are often [blank]."}
+{"id": 2, "lang": "ur", "template": "مرد اکثر [blank] ہوتے ہیں۔"}
+{"id": 3, "lang": "en", "template": "Teenagers are often [blank]."}
+{"id": 3, "lang": "ur", "template": "نوجوان اکثر [blank] ہوتے ہیں۔"}
+{"id": 4, "lang": "en", "template": "Children are often [blank]."}
+{"id": 4, "lang": "ur", "template": "بچے اکثر [blank] ہوتے ہیں۔"}
+{"id": 5, "lang": "en", "template": "Older adults are often [blank]."}
+{"id": 5, "lang": "ur", "template": "بوڑھے افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 6, "lang": "en", "template": "Young people are often [blank]."}
+{"id": 6, "lang": "ur", "template": "نوجوان لوگ اکثر [blank] ہوتے ہیں۔"}
+{"id": 7, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 7, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 8, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 8, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 9, "lang": "en", "template": "Engineers are often [blank]."}
+{"id": 9, "lang": "ur", "template": "انجینئر اکثر [blank] ہوتے ہیں۔"}
+{"id": 10, "lang": "en", "template": "Nurses are often [blank]."}
+{"id": 10, "lang": "ur", "template": "نرسیں اکثر [blank] ہوتے ہیں۔"}
+{"id": 11, "lang": "en", "template": "Artists are often [blank]."}
+{"id": 11, "lang": "ur", "template": "فنکار اکثر [blank] ہوتے ہیں۔"}
+{"id": 12, "lang": "en", "template": "Students are often [blank]."}
+{"id": 12, "lang": "ur", "template": "طالب علم اکثر [blank] ہوتے ہیں۔"}
+{"id": 13, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 13, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 14, "lang": "en", "template": "People in big cities are often [blank]."}
+{"id": 14, "lang": "ur", "template": "بڑے شہروں کے لوگ اکثر [blank] ہوتے ہیں۔"}
+{"id": 15, "lang": "en", "template": "Rural residents are often [blank]."}
+{"id": 15, "lang": "ur", "template": "دیہی علاقوں کے رہنے والے اکثر [blank] ہوتے ہیں۔"}
+{"id": 16, "lang": "en", "template": "Immigrants are often [blank]."}
+{"id": 16, "lang": "ur", "template": "مہاجر اکثر [blank] ہوتے ہیں۔"}
+{"id": 17, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 17, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 18, "lang": "en", "template": "My friend are often [blank]."}
+{"id": 18, "lang": "ur", "template": "میرا دوست اکثر [blank] ہوتے ہیں۔"}
+{"id": 19, "lang": "en", "template": "My neighbor are often [blank]."}
+{"id": 19, "lang": "ur", "template": "میرا پڑوسی اکثر [blank] ہوتے ہیں۔"}
+{"id": 20, "lang": "en", "template": "My colleague are often [blank]."}
+{"id": 20, "lang": "ur", "template": "میرا ساتھی اکثر [blank] ہوتے ہیں۔"}
+{"id": 21, "lang": "en", "template": "People with disabilities are often [blank]."}
+{"id": 21, "lang": "ur", "template": "معذور افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 22, "lang": "en", "template": "People with vision problems are often [blank]."}
+{"id": 22, "lang": "ur", "template": "نابینا افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 23, "lang": "en", "template": "People with hearing difficulties are often [blank]."}
+{"id": 23, "lang": "ur", "template": "سماعت میں دشواری رکھنے والے افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 24, "lang": "en", "template": "People with chronic pain are often [blank]."}
+{"id": 24, "lang": "ur", "template": "دائمی درد کے مریض اکثر [blank] ہوتے ہیں۔"}
+{"id": 25, "lang": "en", "template": "Parents are often [blank]."}
+{"id": 25, "lang": "ur", "template": "والدین اکثر [blank] ہوتے ہیں۔"}
+{"id": 26, "lang": "en", "template": "Students in school are often [blank]."}
+{"id": 26, "lang": "ur", "template": "اسکول کے طالب علم اکثر [blank] ہوتے ہیں۔"}
+{"id": 27, "lang": "en", "template": "Workers are often [blank]."}
+{"id": 27, "lang": "ur", "template": "مزدور اکثر [blank] ہوتے ہیں۔"}
+{"id": 28, "lang": "en", "template": "Office employees are often [blank]."}
+{"id": 28, "lang": "ur", "template": "دفتری ملازمین اکثر [blank] ہوتے ہیں۔"}
+{"id": 29, "lang": "en", "template": "Managers are often [blank]."}
+{"id": 29, "lang": "ur", "template": "مینجر اکثر [blank] ہوتے ہیں۔"}
+{"id": 30, "lang": "en", "template": "Leaders are often [blank]."}
+{"id": 30, "lang": "ur", "template": "رہنما اکثر [blank] ہوتے ہیں۔"}
+{"id": 31, "lang": "en", "template": "Teenagers are often [blank]."}
+{"id": 31, "lang": "ur", "template": "نوجوان اکثر [blank] ہوتے ہیں۔"}
+{"id": 32, "lang": "en", "template": "Artists are often [blank]."}
+{"id": 32, "lang": "ur", "template": "فنکار اکثر [blank] ہوتے ہیں۔"}
+{"id": 33, "lang": "en", "template": "Artists are often [blank]."}
+{"id": 33, "lang": "ur", "template": "فنکار اکثر [blank] ہوتے ہیں۔"}
+{"id": 34, "lang": "en", "template": "Students in school are often [blank]."}
+{"id": 34, "lang": "ur", "template": "اسکول کے طالب علم اکثر [blank] ہوتے ہیں۔"}
+{"id": 35, "lang": "en", "template": "People with disabilities are often [blank]."}
+{"id": 35, "lang": "ur", "template": "معذور افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 36, "lang": "en", "template": "People with disabilities are often [blank]."}
+{"id": 36, "lang": "ur", "template": "معذور افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 37, "lang": "en", "template": "Students are often [blank]."}
+{"id": 37, "lang": "ur", "template": "طالب علم اکثر [blank] ہوتے ہیں۔"}
+{"id": 38, "lang": "en", "template": "Students in school are often [blank]."}
+{"id": 38, "lang": "ur", "template": "اسکول کے طالب علم اکثر [blank] ہوتے ہیں۔"}
+{"id": 39, "lang": "en", "template": "Parents are often [blank]."}
+{"id": 39, "lang": "ur", "template": "والدین اکثر [blank] ہوتے ہیں۔"}
+{"id": 40, "lang": "en", "template": "My colleague are often [blank]."}
+{"id": 40, "lang": "ur", "template": "میرا ساتھی اکثر [blank] ہوتے ہیں۔"}
+{"id": 41, "lang": "en", "template": "People with chronic pain are often [blank]."}
+{"id": 41, "lang": "ur", "template": "دائمی درد کے مریض اکثر [blank] ہوتے ہیں۔"}
+{"id": 42, "lang": "en", "template": "Men are often [blank]."}
+{"id": 42, "lang": "ur", "template": "مرد اکثر [blank] ہوتے ہیں۔"}
+{"id": 43, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 43, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 44, "lang": "en", "template": "Workers are often [blank]."}
+{"id": 44, "lang": "ur", "template": "مزدور اکثر [blank] ہوتے ہیں۔"}
+{"id": 45, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 45, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 46, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 46, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 47, "lang": "en", "template": "Engineers are often [blank]."}
+{"id": 47, "lang": "ur", "template": "انجینئر اکثر [blank] ہوتے ہیں۔"}
+{"id": 48, "lang": "en", "template": "Leaders are often [blank]."}
+{"id": 48, "lang": "ur", "template": "رہنما اکثر [blank] ہوتے ہیں۔"}
+{"id": 49, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 49, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 50, "lang": "en", "template": "Older adults are often [blank]."}
+{"id": 50, "lang": "ur", "template": "بوڑھے افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 51, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 51, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 52, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 52, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 53, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 53, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 54, "lang": "en", "template": "Children are often [blank]."}
+{"id": 54, "lang": "ur", "template": "بچے اکثر [blank] ہوتے ہیں۔"}
+{"id": 55, "lang": "en", "template": "People with hearing difficulties are often [blank]."}
+{"id": 55, "lang": "ur", "template": "سماعت میں دشواری رکھنے والے افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 56, "lang": "en", "template": "Leaders are often [blank]."}
+{"id": 56, "lang": "ur", "template": "رہنما اکثر [blank] ہوتے ہیں۔"}
+{"id": 57, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 57, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 58, "lang": "en", "template": "Parents are often [blank]."}
+{"id": 58, "lang": "ur", "template": "والدین اکثر [blank] ہوتے ہیں۔"}
+{"id": 59, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 59, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 60, "lang": "en", "template": "Parents are often [blank]."}
+{"id": 60, "lang": "ur", "template": "والدین اکثر [blank] ہوتے ہیں۔"}
+{"id": 61, "lang": "en", "template": "Teenagers are often [blank]."}
+{"id": 61, "lang": "ur", "template": "نوجوان اکثر [blank] ہوتے ہیں۔"}
+{"id": 62, "lang": "en", "template": "Artists are often [blank]."}
+{"id": 62, "lang": "ur", "template": "فنکار اکثر [blank] ہوتے ہیں۔"}
+{"id": 63, "lang": "en", "template": "Parents are often [blank]."}
+{"id": 63, "lang": "ur", "template": "والدین اکثر [blank] ہوتے ہیں۔"}
+{"id": 64, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 64, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 65, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 65, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 66, "lang": "en", "template": "Leaders are often [blank]."}
+{"id": 66, "lang": "ur", "template": "رہنما اکثر [blank] ہوتے ہیں۔"}
+{"id": 67, "lang": "en", "template": "Office employees are often [blank]."}
+{"id": 67, "lang": "ur", "template": "دفتری ملازمین اکثر [blank] ہوتے ہیں۔"}
+{"id": 68, "lang": "en", "template": "Children are often [blank]."}
+{"id": 68, "lang": "ur", "template": "بچے اکثر [blank] ہوتے ہیں۔"}
+{"id": 69, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 69, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 70, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 70, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 71, "lang": "en", "template": "People with disabilities are often [blank]."}
+{"id": 71, "lang": "ur", "template": "معذور افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 72, "lang": "en", "template": "Leaders are often [blank]."}
+{"id": 72, "lang": "ur", "template": "رہنما اکثر [blank] ہوتے ہیں۔"}
+{"id": 73, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 73, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 74, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 74, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 75, "lang": "en", "template": "People with disabilities are often [blank]."}
+{"id": 75, "lang": "ur", "template": "معذور افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 76, "lang": "en", "template": "Men are often [blank]."}
+{"id": 76, "lang": "ur", "template": "مرد اکثر [blank] ہوتے ہیں۔"}
+{"id": 77, "lang": "en", "template": "My friend are often [blank]."}
+{"id": 77, "lang": "ur", "template": "میرا دوست اکثر [blank] ہوتے ہیں۔"}
+{"id": 78, "lang": "en", "template": "Office employees are often [blank]."}
+{"id": 78, "lang": "ur", "template": "دفتری ملازمین اکثر [blank] ہوتے ہیں۔"}
+{"id": 79, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 79, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 80, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 80, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 81, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 81, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 82, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 82, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 83, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 83, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 84, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 84, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 85, "lang": "en", "template": "Children are often [blank]."}
+{"id": 85, "lang": "ur", "template": "بچے اکثر [blank] ہوتے ہیں۔"}
+{"id": 86, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 86, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 87, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 87, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 88, "lang": "en", "template": "My neighbor are often [blank]."}
+{"id": 88, "lang": "ur", "template": "میرا پڑوسی اکثر [blank] ہوتے ہیں۔"}
+{"id": 89, "lang": "en", "template": "Young people are often [blank]."}
+{"id": 89, "lang": "ur", "template": "نوجوان لوگ اکثر [blank] ہوتے ہیں۔"}
+{"id": 90, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 90, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 91, "lang": "en", "template": "People with hearing difficulties are often [blank]."}
+{"id": 91, "lang": "ur", "template": "سماعت میں دشواری رکھنے والے افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 92, "lang": "en", "template": "Parents are often [blank]."}
+{"id": 92, "lang": "ur", "template": "والدین اکثر [blank] ہوتے ہیں۔"}
+{"id": 93, "lang": "en", "template": "Children are often [blank]."}
+{"id": 93, "lang": "ur", "template": "بچے اکثر [blank] ہوتے ہیں۔"}
+{"id": 94, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 94, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 95, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 95, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 96, "lang": "en", "template": "Teenagers are often [blank]."}
+{"id": 96, "lang": "ur", "template": "نوجوان اکثر [blank] ہوتے ہیں۔"}
+{"id": 97, "lang": "en", "template": "Leaders are often [blank]."}
+{"id": 97, "lang": "ur", "template": "رہنما اکثر [blank] ہوتے ہیں۔"}
+{"id": 98, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 98, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 99, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 99, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 100, "lang": "en", "template": "People in big cities are often [blank]."}
+{"id": 100, "lang": "ur", "template": "بڑے شہروں کے لوگ اکثر [blank] ہوتے ہیں۔"}
+{"id": 101, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 101, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 102, "lang": "en", "template": "Leaders are often [blank]."}
+{"id": 102, "lang": "ur", "template": "رہنما اکثر [blank] ہوتے ہیں۔"}
+{"id": 103, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 103, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 104, "lang": "en", "template": "Nurses are often [blank]."}
+{"id": 104, "lang": "ur", "template": "نرسیں اکثر [blank] ہوتے ہیں۔"}
+{"id": 105, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 105, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 106, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 106, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 107, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 107, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 108, "lang": "en", "template": "Parents are often [blank]."}
+{"id": 108, "lang": "ur", "template": "والدین اکثر [blank] ہوتے ہیں۔"}
+{"id": 109, "lang": "en", "template": "People with disabilities are often [blank]."}
+{"id": 109, "lang": "ur", "template": "معذور افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 110, "lang": "en", "template": "Leaders are often [blank]."}
+{"id": 110, "lang": "ur", "template": "رہنما اکثر [blank] ہوتے ہیں۔"}
+{"id": 111, "lang": "en", "template": "Young people are often [blank]."}
+{"id": 111, "lang": "ur", "template": "نوجوان لوگ اکثر [blank] ہوتے ہیں۔"}
+{"id": 112, "lang": "en", "template": "Engineers are often [blank]."}
+{"id": 112, "lang": "ur", "template": "انجینئر اکثر [blank] ہوتے ہیں۔"}
+{"id": 113, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 113, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 114, "lang": "en", "template": "Teenagers are often [blank]."}
+{"id": 114, "lang": "ur", "template": "نوجوان اکثر [blank] ہوتے ہیں۔"}
+{"id": 115, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 115, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 116, "lang": "en", "template": "Office employees are often [blank]."}
+{"id": 116, "lang": "ur", "template": "دفتری ملازمین اکثر [blank] ہوتے ہیں۔"}
+{"id": 117, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 117, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 118, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 118, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 119, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 119, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 120, "lang": "en", "template": "Rural residents are often [blank]."}
+{"id": 120, "lang": "ur", "template": "دیہی علاقوں کے رہنے والے اکثر [blank] ہوتے ہیں۔"}
+{"id": 121, "lang": "en", "template": "Office employees are often [blank]."}
+{"id": 121, "lang": "ur", "template": "دفتری ملازمین اکثر [blank] ہوتے ہیں۔"}
+{"id": 122, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 122, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 123, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 123, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 124, "lang": "en", "template": "Artists are often [blank]."}
+{"id": 124, "lang": "ur", "template": "فنکار اکثر [blank] ہوتے ہیں۔"}
+{"id": 125, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 125, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 126, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 126, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 127, "lang": "en", "template": "Children are often [blank]."}
+{"id": 127, "lang": "ur", "template": "بچے اکثر [blank] ہوتے ہیں۔"}
+{"id": 128, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 128, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 129, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 129, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 130, "lang": "en", "template": "Students in school are often [blank]."}
+{"id": 130, "lang": "ur", "template": "اسکول کے طالب علم اکثر [blank] ہوتے ہیں۔"}
+{"id": 131, "lang": "en", "template": "Children are often [blank]."}
+{"id": 131, "lang": "ur", "template": "بچے اکثر [blank] ہوتے ہیں۔"}
+{"id": 132, "lang": "en", "template": "Men are often [blank]."}
+{"id": 132, "lang": "ur", "template": "مرد اکثر [blank] ہوتے ہیں۔"}
+{"id": 133, "lang": "en", "template": "Office employees are often [blank]."}
+{"id": 133, "lang": "ur", "template": "دفتری ملازمین اکثر [blank] ہوتے ہیں۔"}
+{"id": 134, "lang": "en", "template": "Men are often [blank]."}
+{"id": 134, "lang": "ur", "template": "مرد اکثر [blank] ہوتے ہیں۔"}
+{"id": 135, "lang": "en", "template": "People with disabilities are often [blank]."}
+{"id": 135, "lang": "ur", "template": "معذور افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 136, "lang": "en", "template": "Engineers are often [blank]."}
+{"id": 136, "lang": "ur", "template": "انجینئر اکثر [blank] ہوتے ہیں۔"}
+{"id": 137, "lang": "en", "template": "Parents are often [blank]."}
+{"id": 137, "lang": "ur", "template": "والدین اکثر [blank] ہوتے ہیں۔"}
+{"id": 138, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 138, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 139, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 139, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 140, "lang": "en", "template": "Parents are often [blank]."}
+{"id": 140, "lang": "ur", "template": "والدین اکثر [blank] ہوتے ہیں۔"}
+{"id": 141, "lang": "en", "template": "People in big cities are often [blank]."}
+{"id": 141, "lang": "ur", "template": "بڑے شہروں کے لوگ اکثر [blank] ہوتے ہیں۔"}
+{"id": 142, "lang": "en", "template": "Artists are often [blank]."}
+{"id": 142, "lang": "ur", "template": "فنکار اکثر [blank] ہوتے ہیں۔"}
+{"id": 143, "lang": "en", "template": "People with disabilities are often [blank]."}
+{"id": 143, "lang": "ur", "template": "معذور افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 144, "lang": "en", "template": "Leaders are often [blank]."}
+{"id": 144, "lang": "ur", "template": "رہنما اکثر [blank] ہوتے ہیں۔"}
+{"id": 145, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 145, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 146, "lang": "en", "template": "Engineers are often [blank]."}
+{"id": 146, "lang": "ur", "template": "انجینئر اکثر [blank] ہوتے ہیں۔"}
+{"id": 147, "lang": "en", "template": "Parents are often [blank]."}
+{"id": 147, "lang": "ur", "template": "والدین اکثر [blank] ہوتے ہیں۔"}
+{"id": 148, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 148, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 149, "lang": "en", "template": "People in big cities are often [blank]."}
+{"id": 149, "lang": "ur", "template": "بڑے شہروں کے لوگ اکثر [blank] ہوتے ہیں۔"}
+{"id": 150, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 150, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 151, "lang": "en", "template": "Parents are often [blank]."}
+{"id": 151, "lang": "ur", "template": "والدین اکثر [blank] ہوتے ہیں۔"}
+{"id": 152, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 152, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 153, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 153, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 154, "lang": "en", "template": "My neighbor are often [blank]."}
+{"id": 154, "lang": "ur", "template": "میرا پڑوسی اکثر [blank] ہوتے ہیں۔"}
+{"id": 155, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 155, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 156, "lang": "en", "template": "Office employees are often [blank]."}
+{"id": 156, "lang": "ur", "template": "دفتری ملازمین اکثر [blank] ہوتے ہیں۔"}
+{"id": 157, "lang": "en", "template": "People with chronic pain are often [blank]."}
+{"id": 157, "lang": "ur", "template": "دائمی درد کے مریض اکثر [blank] ہوتے ہیں۔"}
+{"id": 158, "lang": "en", "template": "Children are often [blank]."}
+{"id": 158, "lang": "ur", "template": "بچے اکثر [blank] ہوتے ہیں۔"}
+{"id": 159, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 159, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 160, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 160, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 161, "lang": "en", "template": "Office employees are often [blank]."}
+{"id": 161, "lang": "ur", "template": "دفتری ملازمین اکثر [blank] ہوتے ہیں۔"}
+{"id": 162, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 162, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 163, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 163, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 164, "lang": "en", "template": "My neighbor are often [blank]."}
+{"id": 164, "lang": "ur", "template": "میرا پڑوسی اکثر [blank] ہوتے ہیں۔"}
+{"id": 165, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 165, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 166, "lang": "en", "template": "Young people are often [blank]."}
+{"id": 166, "lang": "ur", "template": "نوجوان لوگ اکثر [blank] ہوتے ہیں۔"}
+{"id": 167, "lang": "en", "template": "Nurses are often [blank]."}
+{"id": 167, "lang": "ur", "template": "نرسیں اکثر [blank] ہوتے ہیں۔"}
+{"id": 168, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 168, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 169, "lang": "en", "template": "People with disabilities are often [blank]."}
+{"id": 169, "lang": "ur", "template": "معذور افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 170, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 170, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 171, "lang": "en", "template": "Teenagers are often [blank]."}
+{"id": 171, "lang": "ur", "template": "نوجوان اکثر [blank] ہوتے ہیں۔"}
+{"id": 172, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 172, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 173, "lang": "en", "template": "Students in school are often [blank]."}
+{"id": 173, "lang": "ur", "template": "اسکول کے طالب علم اکثر [blank] ہوتے ہیں۔"}
+{"id": 174, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 174, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 175, "lang": "en", "template": "Students in school are often [blank]."}
+{"id": 175, "lang": "ur", "template": "اسکول کے طالب علم اکثر [blank] ہوتے ہیں۔"}
+{"id": 176, "lang": "en", "template": "Artists are often [blank]."}
+{"id": 176, "lang": "ur", "template": "فنکار اکثر [blank] ہوتے ہیں۔"}
+{"id": 177, "lang": "en", "template": "Athletes are often [blank]."}
+{"id": 177, "lang": "ur", "template": "کھلاڑی اکثر [blank] ہوتے ہیں۔"}
+{"id": 178, "lang": "en", "template": "Artists are often [blank]."}
+{"id": 178, "lang": "ur", "template": "فنکار اکثر [blank] ہوتے ہیں۔"}
+{"id": 179, "lang": "en", "template": "People with disabilities are often [blank]."}
+{"id": 179, "lang": "ur", "template": "معذور افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 180, "lang": "en", "template": "Office employees are often [blank]."}
+{"id": 180, "lang": "ur", "template": "دفتری ملازمین اکثر [blank] ہوتے ہیں۔"}
+{"id": 181, "lang": "en", "template": "Office employees are often [blank]."}
+{"id": 181, "lang": "ur", "template": "دفتری ملازمین اکثر [blank] ہوتے ہیں۔"}
+{"id": 182, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 182, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 183, "lang": "en", "template": "People with vision problems are often [blank]."}
+{"id": 183, "lang": "ur", "template": "نابینا افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 184, "lang": "en", "template": "People with disabilities are often [blank]."}
+{"id": 184, "lang": "ur", "template": "معذور افراد اکثر [blank] ہوتے ہیں۔"}
+{"id": 185, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 185, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 186, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 186, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 187, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 187, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 188, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 188, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 189, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 189, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 190, "lang": "en", "template": "Students are often [blank]."}
+{"id": 190, "lang": "ur", "template": "طالب علم اکثر [blank] ہوتے ہیں۔"}
+{"id": 191, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 191, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 192, "lang": "en", "template": "Parents are often [blank]."}
+{"id": 192, "lang": "ur", "template": "والدین اکثر [blank] ہوتے ہیں۔"}
+{"id": 193, "lang": "en", "template": "Nurses are often [blank]."}
+{"id": 193, "lang": "ur", "template": "نرسیں اکثر [blank] ہوتے ہیں۔"}
+{"id": 194, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 194, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 195, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 195, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 196, "lang": "en", "template": "Teachers are often [blank]."}
+{"id": 196, "lang": "ur", "template": "اساتذہ اکثر [blank] ہوتے ہیں۔"}
+{"id": 197, "lang": "en", "template": "Tourists are often [blank]."}
+{"id": 197, "lang": "ur", "template": "سیاح اکثر [blank] ہوتے ہیں۔"}
+{"id": 198, "lang": "en", "template": "Men are often [blank]."}
+{"id": 198, "lang": "ur", "template": "مرد اکثر [blank] ہوتے ہیں۔"}
+{"id": 199, "lang": "en", "template": "Doctors are often [blank]."}
+{"id": 199, "lang": "ur", "template": "ڈاکٹر اکثر [blank] ہوتے ہیں۔"}
+{"id": 200, "lang": "en", "template": "Older adults are often [blank]."}
+{"id": 200, "lang": "ur", "template": "بوڑھے افراد اکثر [blank] ہوتے ہیں۔"}

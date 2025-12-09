@@ -1,0 +1,29 @@
+{
+  "candidate_model": {
+    "provider": "openai",
+    "model_name": "gpt-3.5-turbo",
+    "max_tokens": 3,
+    "temperature": 0.9,
+    "top_p": 1.0,
+    "presence_penalty": 0.8,
+    "frequency_penalty": 0.4
+  },
+  "local_model": {
+    "enabled": false,
+    "model_name": "gpt2",
+    "device": "auto"
+  },
+  "prm": {
+    "model_name": "gpt-4o-mini",
+    "alpha": 0.5,
+    "bias_threshold": 0.8
+  },
+  "debias": {
+    "best_of_n": 8,
+    "seq_max_steps": 5
+  },
+  "run": {
+    "results_dir": "results",
+    "run_name_prefix": "run"
+  }
+}

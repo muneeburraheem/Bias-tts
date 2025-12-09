@@ -1,0 +1,7 @@
+Language,Method,Bias,Utility,Composite Score
+English,Baseline,0.9525,0.985,0.96875
+English,Select,0.9765,1.0,0.9882500000000001
+English,Sequential,0.99,0.9875,0.98875
+Urdu,Baseline,0.755,0.85,0.8025
+Urdu,Select,0.96,0.9825,0.97125
+Urdu,Sequential,0.975,0.8825,0.92875
